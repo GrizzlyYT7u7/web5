@@ -7,6 +7,8 @@ import { CrearComponent } from './crear/crear.component';
 import { ConfiguracionComponent } from './configuracion/configuracion.component';
 import { PerfilComponent } from './perfil/perfil.component';
 import { EleccionComponent } from './eleccion/eleccion.component';
+import { RecuperarComponent } from './recuperar/recuperar.component';
+import { AyudaComponent } from './ayuda/ayuda.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'eleccion', pathMatch: 'full' },
@@ -17,6 +19,8 @@ const routes: Routes = [
   { path: 'crear', component: CrearComponent },
   { path: 'configuracion', component: ConfiguracionComponent },
   { path: 'perfil', component: PerfilComponent },
+  { path: 'recuperar', component: RecuperarComponent },
+  { path: 'ayuda', component: AyudaComponent },
 ];
 
 @NgModule({

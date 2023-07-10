@@ -11,6 +11,8 @@ import { ConfiguracionComponent } from './configuracion/configuracion.component'
 import { CrearComponent } from './crear/crear.component';
 import { EmpezarComponent } from './empezar/empezar.component';
 import { PerfilComponent } from './perfil/perfil.component';
+import { AyudaComponent } from './ayuda/ayuda.component';
+import { RecuperarComponent } from './recuperar/recuperar.component';
 
 @NgModule({
   declarations: [
@@ -22,6 +24,8 @@ import { PerfilComponent } from './perfil/perfil.component';
     CrearComponent,
     EmpezarComponent,
     PerfilComponent,
+    AyudaComponent,
+    RecuperarComponent,
   ],
   imports: [BrowserModule, AppRoutingModule, ReactiveFormsModule],
   providers: [],
