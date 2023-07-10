@@ -1,0 +1,20 @@
+<facultades>
+  <facultad>
+    <nombre>Facultad ciencias de la salud</nombre>
+  </facultad>
+  <facultad>
+    <nombre>Facultad ciencias administrativas, contables y comercio</nombre>
+  </facultad>
+  <facultad>
+    <nombre>Facultad de educación turismo artes y humanidades</nombre>
+  </facultad>
+  <facultad>
+    <nombre>Facultad ingeniería, industria y arquitectura</nombre>
+  </facultad>
+  <facultad>
+    <nombre>Facultad ciencias de la vida y tecnologías</nombre>
+  </facultad>
+  <facultad>
+    <nombre>Facultad de ciencias sociales derecho y bienestar</nombre>
+  </facultad>
+</facultades>

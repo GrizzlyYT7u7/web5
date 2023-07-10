@@ -1,0 +1,18 @@
+<usuarios>
+  <usuario>
+    <nombre>Francisco</nombre>
+    <apellido>Sanchez</apellido>
+    <correo_institucional>e13152077692@live.uleam.edu.ec</correo_institucional>
+    <carrera>Ingeniería en TI</carrera>
+    <telefono>0979341684</telefono>
+    <contrasena>123456</contrasena>
+  </usuario>
+  <usuario>
+    <nombre>Jerson</nombre>
+    <apellido>Cuenca</apellido>
+    <correo_institucional>e1312516151@live.uleam.edu.ec</correo_institucional>
+    <carrera>Ingeniería en Sistemas</carrera>
+    <telefono>0954613151</telefono>
+    <contrasena>123456</contrasena>
+  </usuario>
+</usuarios>
